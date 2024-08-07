@@ -1,4 +1,4 @@
-package ru.netology.profiledemo;
+package ru.netology.profiledemo.model;
 
 public class DevProfile implements SystemProfile {
     @Override
